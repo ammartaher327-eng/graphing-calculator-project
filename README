@@ -1,0 +1,3 @@
+this is v2.1 actually the only change was i now gave the user the freedom to choose the boundaries of np.linspace by turning it into np.linspace(float(m),float(M),pt) where m and M are the minimum and maximum of x.
+using sp.sympify to interpert pi and e then using float to make them numbers numpy can manipulate
+
